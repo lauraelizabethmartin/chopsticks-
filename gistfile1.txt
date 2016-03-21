@@ -1,0 +1,4 @@
+<div>
+    <a href="https://plot.ly/~lemartin/15/" target="_blank" title="Average Accuracy of Chopstick Users at Different Chopstick Lengths" style="display: block; text-align: center;"><img src="https://plot.ly/~lemartin/15.png" alt="Average Accuracy of Chopstick Users at Different Chopstick Lengths" style="max-width: 100%;width: 1184px;"  width="1184" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="lemartin:15"  src="https://plot.ly/embed.js" async></script>
+</div>
